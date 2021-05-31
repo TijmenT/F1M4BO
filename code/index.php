@@ -7,7 +7,7 @@
     <title>Document</title>
 
 <?php 
-    
+    echo('hoi')
 
 
 ?>
